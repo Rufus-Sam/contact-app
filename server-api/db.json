@@ -1,0 +1,19 @@
+{
+  "contacts": [
+    {
+      "id": "9351afb4-4357-4c6d-8705-688e90b3d31e",
+      "name": "Rufus Sam John",
+      "email": "rufussam.johnimmanvelj2019@vitstudent.ac.in"
+    },
+    {
+      "id": "eff55dba-46cf-478e-bdc9-4e79ac45300a",
+      "name": "brad",
+      "email": "iks@outlook.com"
+    },
+    {
+      "id": "3a4a9884-dba4-4bb8-a8c3-b9c291730385",
+      "name": "Jane doe",
+      "email": "jane@example.com"
+    }
+  ]
+}
